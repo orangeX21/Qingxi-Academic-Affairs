@@ -1,2 +1,1 @@
 # Qingxi Academic Affairs
- 
