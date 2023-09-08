@@ -45,6 +45,7 @@ public class MainActivity2 extends AppCompatActivity {
 
     private boolean isValidUser(String username, String password) {
         // 请求教务处 网址  验证用户名和密码是否匹配
+        //
         // 在这里实现用户验证逻辑，例如检查用户名和密码是否匹配
         // 返回 true 表示验证成功，返回 false 表示验证失败
         // 这里只是一个示例，实际中需要替换为真实的验证逻辑

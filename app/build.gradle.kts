@@ -8,8 +8,8 @@ android {
 
     defaultConfig {
         applicationId = "com.Orange_Love_Freedom.qingxi_academic_affairs"
-        minSdk = 33
-        targetSdk = 33
+        minSdk = 29
+        targetSdk = 30
         versionCode = 1
         versionName = "1.0"
 

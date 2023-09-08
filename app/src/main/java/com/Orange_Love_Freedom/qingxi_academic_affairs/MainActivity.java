@@ -1,6 +1,4 @@
 package com.Orange_Love_Freedom.qingxi_academic_affairs;
-import com.Orange_Love_Freedom.qingxi_academic_affairs.signup;
-import androidx.activity.result.contract.ActivityResultContracts;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.content.Intent;
